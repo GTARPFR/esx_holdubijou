@@ -10,7 +10,7 @@ FXserver ESX Hold Up Jewel
 1) CD in your resources/[esx] folder
 2) Clone the repository
 ```
-git clone https://github.com/ESX-Org/esx_holdubijou esx_holdubijou
+git clone https://github.com/xPiston/esx_holdubijou esx_holdubijou
 ```
 
 3) Add this in your server.cfg :
